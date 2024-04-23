@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.image-container {
+  display: flex;
+  align-items: center;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.usd {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-right: 5px;
+}
+.euro {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
